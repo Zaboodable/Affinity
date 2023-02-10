@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaAffinity", "JavaAffinity\JavaAffinity.csproj", "{50022314-1282-4A75-8802-D73920C1F60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50022314-1282-4A75-8802-D73920C1F60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50022314-1282-4A75-8802-D73920C1F60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50022314-1282-4A75-8802-D73920C1F60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50022314-1282-4A75-8802-D73920C1F60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5593CB6A-A818-4CB5-ACC5-7A5DDA5B1068}
+	EndGlobalSection
+EndGlobal
