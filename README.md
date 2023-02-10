@@ -7,3 +7,6 @@ Type the process names in the box and click search
 Tick the boxes and apply
 
 There is a handy left/right button for quick splitting too.
+
+
+<img src="/example.png"> 
