@@ -1,4 +1,6 @@
 <h1>Affinity Changer</h1>
+AffinityMaster coming soon!
+
 Old quick program to change/set process affinity.
 Originally made to split cpu for minecraft server/client
 
